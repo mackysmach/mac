@@ -1,0 +1,1 @@
+print("Kuy Github Fuck you")
